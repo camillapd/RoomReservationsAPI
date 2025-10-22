@@ -95,11 +95,12 @@ pip install -r requirements.txt
 2. Rodar a API:
 
 ```bash
-python app.py
+python api.py
 ```
 
 3. Testar os endpoints usando a biblioteca requests (opcionalmente o arquivo exemplo.py testes prontos de exemplo)
 
 (Para fazer GET pode-se acessar a URL diretamente no navegador para exibir o arquivo JSON)
+
 
 
