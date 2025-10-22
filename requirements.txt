@@ -1,0 +1,5 @@
+Flask==3.1.2
+Flask-RESTful==0.3.10
+Flask-SQLAlchemy==3.1.1
+flask-cors==6.0.1
+requests==2.32.5   # só se for usar testes via Python
